@@ -42,6 +42,19 @@ If you are also interested in similar topics or seeking any form of research col
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/ijcai21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Deepfake Video Detection with Spatiotemporal Dropout Transformer](https://dl.acm.org/doi/abs/10.1145/3503161.3547913)
+
+**Daichi Zhang**, Fanzhao Lin, Yingying Hua, Pengju Wang, Dan Zeng, Shiming Ge.
+
+ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841.
+
+- A Transformer-based detector by mining the local patch-level spatiotemporal inconsistency. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/ijcai21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Detecting Deepfake Videos with Temporal Dropout 3DCNN](https://www.ijcai.org/proceedings/2021/0178.pdf)
 
 **Daichi Zhang**, Chenyu Li, Fanzhao Lin, Dan Zeng, Shiming Ge.
