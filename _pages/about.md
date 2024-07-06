@@ -51,8 +51,10 @@ If you are also interested in similar topics or seeking any form of research col
 </div>
 </div>
 
-- [Deepfake video detection via predictive representation learning.](https://dl.acm.org/doi/full/10.1145/3536426) Shiming Ge, Fanzhao Lin, Chenyu Li, **Daichi Zhang**, Weiping Wang, Dan Zeng. ACM Transactions on Multimedia Computing, Communications, and Applications (*TOMM*) 2022, 18(2s): 1-21.
-- [Interpret The Predictions Of Deep Networks Via Re-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/9428072/?casa_token=3i1SkWCrJUUAAAAA:fqA8v736ixJJO7oOyr24XTffmCYJLszA4Y5vjac6dk2Q0axzdXVh_AlJfTk94TP8CLR14E1CiDi6) Yingying Hua, Shiming Ge, **Daichi Zhang**. IEEE International Conference on Multimedia and Expo (*ICME*) 2021: 1-6.
+- [Deepfake Video Detection via Predictive Representation Learning.](https://dl.acm.org/doi/full/10.1145/3536426) Shiming Ge, Fanzhao Lin, Chenyu Li, **Daichi Zhang**, Weiping Wang, Dan Zeng. ACM Transactions on Multimedia Computing, Communications, and Applications (*TOMM*) 2022, 18(2s): 1-21.
+- [Interpret the Predictions of Deep Networks via Re-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/9428072/?casa_token=3i1SkWCrJUUAAAAA:fqA8v736ixJJO7oOyr24XTffmCYJLszA4Y5vjac6dk2Q0axzdXVh_AlJfTk94TP8CLR14E1CiDi6) Yingying Hua, Shiming Ge, **Daichi Zhang**. IEEE International Conference on Multimedia and Expo (*ICME*) 2021: 1-6.
+- [Look Through Masks: Towards Masked Face Recognition with De-occlusion Distillation.](https://dl.acm.org/doi/abs/10.1145/3394171.3413960?casa_token=-RpotDqKpjEAAAAA:82CNFQArjJS3XHGfVN4plecder5xdOYECThEGX2Qdjf4CQn5XRJPAbn_YX2KcZ5HJTwD7Od3E6lOsR4) Chenyu Li, Shiming Ge, **Daichi Zhang**, Jia Li. ACM International Conference on Multimedia (ACM MM) 2020: 3016-3024.
+- [Research Progress in the Interpretability of Deep Learning Models.](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20200302&flag=1) Yingying Hua, **Daichi Zhang**, Shiming Ge. Journal of Cyber Security 5.3 (2020): 1-12.
 
 # 🔨 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/dfd.jpg' alt="sym" width="100%"></div></div>
