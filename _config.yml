@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daichi Zhang"
+title                    : "Daichi Zhang (张岱墀)"
 description              : "Ph.D. candidate in CS/IC, THU/CAS/EPFL. Focusing on Computer Vision, Media Forensics, AI Safety."
 repository               : "Daisy-Zhang/Daisy-Zhang.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daichi Zhang (张岱墀)"
+  name             : "Daichi Zhang"
+  name1            : "张岱墀"
   avatar           : "images/photo.jpg"
   bio              : "THU/CAS/EPFL"
   location         : "Lausanne, Switzerland"
