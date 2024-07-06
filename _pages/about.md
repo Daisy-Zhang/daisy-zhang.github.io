@@ -67,6 +67,6 @@ Besides, I serve as a reviewer for top-tier journals (TIP, TCSVT) and conference
 - *2019.06*, Merit Number of Student Union, Tsinghua University.
 
 # 💻 Internships
-- *2019.06 - 2019.09*, Software Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
-- *2019.10 - 2020.06*, Algorithm Engineer, [Ant Group](https://www.antgroup.com/en), Beijing, China.
 - *2021.10 - 2023.09*, Research Assitant, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China.
+- *2019.10 - 2020.06*, Algorithm Engineer, [Ant Group](https://www.antgroup.com/en), Beijing, China.
+- *2019.06 - 2019.09*, Software Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
