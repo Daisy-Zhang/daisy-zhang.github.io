@@ -23,8 +23,10 @@ I have been a reviewer for top-tier journals (TIP, TCSVT) and conferences (CVPR,
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2024.06*: &nbsp;🎉 One paper Accepted by ECCV 2024! Thanks for all my co-authors!
+- *2024.02*: &nbsp;🎉 Supervise two BS/MS Semester Projects on Large Language Models/Diffusion Models for spring semester ([here](https://www.epfl.ch/labs/ivrl/available-projects/)). Feel free to reach out if you are interested in these topics.
+- *2024.01*: &nbsp;🎉 Invited talk on the TechDay of International School of Geneve on Deepfake. Happy to share idea with young students!
+- *2023.9*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
 # 📖 Educations
 - *2023.9 - now*, Joint Ph.D. Candidate, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
