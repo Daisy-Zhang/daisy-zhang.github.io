@@ -44,9 +44,10 @@ If you are also interested in similar topics or seeking any form of research col
 
 [Detecting Deepfake Videos with Temporal Dropout 3DCNN](https://www.ijcai.org/proceedings/2021/0178.pdf)
 
-**Daichi Zhang**, Chenyu Li, Fanzhao Lin, Dan Zeng, Shiming Ge
+**Daichi Zhang**, Chenyu Li, Fanzhao Lin, Dan Zeng, Shiming Ge.
+International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-1294.
 
-- A 3DCNN-based detector by exploring the multi-scale spatiotemporaltemporal coherence with temporal augmentation. 
+- A 3DCNN-based detector by exploring the multi-scale spatiotemporal coherence with temporal augmentation. 
 </div>
 </div>
 
