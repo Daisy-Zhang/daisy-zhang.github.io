@@ -11,12 +11,12 @@ main:
     
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+  
   - title: "Projects"
     url: "/#-projects"
+  
+  - title: "Awards"
+    url: "/#-awards"
 
   - title: "Internships"
     url: "/#-internships"
