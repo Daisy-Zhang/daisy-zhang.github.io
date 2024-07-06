@@ -55,6 +55,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Internships
-- *2019.06 - 2019.09*, Software Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Beijing, China.
+- *2019.06 - 2019.09*, Software Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
 - *2019.10 - 2020.06*, Algorithm Engineer, [Ant Group](https://www.antgroup.com/en), Beijing, China.
 - *2021.10 - 2023.09*, Research Assitant, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China.
