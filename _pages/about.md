@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a joint Ph.D. student at the [Image and Visual Representation Lab(IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland, supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and work with [Dr. Tong Zhang](https://sites.google.com/view/tong-zhang).
+I am currently a joint Ph.D. student at the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland, supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and work with [Dr. Tong Zhang](https://sites.google.com/view/tong-zhang).
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 If you are interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
@@ -25,7 +26,7 @@ If you are interested in similar topics or seeking any form of research collabor
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉 One paper Accepted by ECCV 2024! Thanks for all my co-authors!
-- *2024.02*: &nbsp;🎉 Supervise two BS/MS Semester Projects on Large Language Models/Diffusion Models Safety for spring semester([here](https://www.epfl.ch/labs/ivrl/available-projects/)). Feel free to send me an email if you are interested in these topics.
+- *2024.02*: &nbsp;🎉 Supervise two BS/MS Semester Projects on Large Language Models/Diffusion Models Safety for spring semester ([here](https://www.epfl.ch/labs/ivrl/available-projects/)). Feel free to send me an email if you are interested in these topics.
 - *2024.01*: &nbsp;🎉 Invited talk on the TechDay of International School of Geneve on Deepfake. Happy to share ideas with young students!
 - *2023.09*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
