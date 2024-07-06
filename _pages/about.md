@@ -27,8 +27,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.9 - now*, Joint Ph.D. Candidate, School of Computer and Communication Sciences, Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Switzerland.
+- *2020.09 - now*, Ph.D. Candidate, University of Chinese Academy of Sciences/Chinese Academy of Sciences, Beijing, China. 
+- *2016.09 - 2020.06*, Bachelor, Department of Computer Science and Technology, Tsinghua University, Beijing, China. 
 
 # 📝 Publications 
 
