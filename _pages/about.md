@@ -51,8 +51,9 @@ My research interest includes neural machine translation and computer vision. I 
 - project here
 
 # 🎖 Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06* Merit Student, University of Chinese Academy of Sciences.
+- *2019.10* National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
+- *2019.06* Merit Number of Student Union, Tsinghua University.
 
 # 💻 Internships
 - *2019.06 - 2019.09*, Software Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
