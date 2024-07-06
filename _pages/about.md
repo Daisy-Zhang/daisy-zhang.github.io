@@ -63,6 +63,7 @@ If you are also interested in similar topics or seeking any form of research col
 </div>
 </div>
 
+- Deepfake Detection Challenge (DFDC) 2020, world rank top 20 teamed up with Tsinghua University.
 Besides, I also serve as a reviewer for journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, AAAI, ACM MM).
 
 # 🎖 Awards
