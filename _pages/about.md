@@ -91,7 +91,7 @@ Besides, I also serve as a reviewer for journals (including TIP, TCSVT) and conf
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
 - *2019.10*, National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
-- *2019.06*, Merit Number of Student Union, Tsinghua University.
+- *2019.06*, Merit Student, Tsinghua University.
 
 # 💻 Internships
 - *2021.10 - 2023.09*, Research Assitant, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China.
