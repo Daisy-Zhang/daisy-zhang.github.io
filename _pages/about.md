@@ -63,7 +63,7 @@ If you are also interested in similar topics or seeking any form of research col
 </div>
 </div>
 
-Besides, I also serve as a reviewer for top-tier journals (TIP, TCSVT) and conferences (CVPR, ECCV, AAAI, ACM MM).
+Besides, I also serve as a reviewer for journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, AAAI, ACM MM).
 
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
