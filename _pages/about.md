@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a joint Ph.D. student at the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland, supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and work with [Dr. Tong Zhang](https://sites.google.com/view/tong-zhang).
+I am currently a joint Ph.D. student at the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland, supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and work with [Dr. Tong Zhang](https://sites.google.com/view/tong-zhang).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I got my bachelor's degree from the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), China. My bachelor's thesis is lucky to be supervised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). 
 
-If you are interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
+I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sciences/Chinese Academy of Sciences, supervised by [Prof. Shiming Ge](https://imsg.ac.cn/people/geshiming.html).
+
+Currently, my research focuses on multi-modal media forensics and AI safety, including exploring the mechanism of generative models and how to detect generated or manipulated content.
+If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
 
 # 🔥 News
