@@ -76,7 +76,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/dfd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Awesome Deepfake Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
+[Awesome Deepfake Detection [Github]](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
 
 - A collection list of Deepfakes Detection related datasets, tools, papers, and code to facilitate the development of related community. 
 </div>
