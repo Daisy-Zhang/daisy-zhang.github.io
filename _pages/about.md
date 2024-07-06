@@ -63,7 +63,10 @@ If you are also interested in similar topics or seeking any form of research col
 </div>
 </div>
 
-- Deepfake Detection Challenge (DFDC) 2020, world rank top 20 teamed up with Tsinghua University.
+- [Deepfake Detection Challenge (DFDC) 2020](https://www.kaggle.com/c/deepfake-detection-challenge): world rank top 20 teamed up with Tsinghua University.
+- The 3rd China Artificial Intelligence Competition on Deepfake Video Detection: B-level prize.
+- Huawei Student Developer Competition 2020: second prize.
+
 Besides, I also serve as a reviewer for journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, AAAI, ACM MM).
 
 # 🎖 Awards
