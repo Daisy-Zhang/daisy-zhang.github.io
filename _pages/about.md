@@ -46,7 +46,7 @@ If you are also interested in similar topics or seeking any form of research col
 
 **Daichi Zhang**, Fanzhao Lin, Yingying Hua, Pengju Wang, Dan Zeng, Shiming Ge.
 
-ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. $${\color{red}(Oral)}$$
+ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. $${\color{red}{(Oral)}}$$
 
 - A Transformer-based detector by mining the local patch-level spatiotemporal inconsistency. 
 </div>
