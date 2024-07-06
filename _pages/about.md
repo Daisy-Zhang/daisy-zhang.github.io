@@ -50,7 +50,7 @@ If you are interested in similar topics or seeking any form of research collabor
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🔨 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/dfd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Awesome Deepfake Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
