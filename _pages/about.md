@@ -46,8 +46,7 @@ If you are also interested in similar topics or seeking any form of research col
 
 **Daichi Zhang**, Chenyu Li, Fanzhao Lin, Dan Zeng, Shiming Ge
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A 3DCNN-based detector by exploring the multi-scale spatiotemporaltemporal coherence with temporal augmentation. 
 </div>
 </div>
 
