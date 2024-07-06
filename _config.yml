@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daichi Zhang(张岱墀)"
+  name             : "Daichi Zhang\n(张岱墀)"
   avatar           : "images/photo.jpg"
   bio              : "THU/CAS/EPFL"
   location         : "Lausanne, Switzerland"
