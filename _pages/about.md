@@ -22,7 +22,7 @@ I am currently a joint Ph.D. student at the [Image and Visual Representation Lab
 I got my bachelor's degree from the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), China. My bachelor's thesis is supervised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). And I feel lucky to further collaborate with [Prof. Hang Su](https://www.suhangss.me/), Prof. [Jianmin Li](https://www.cs.tsinghua.edu.cn/csen/info/1154/3991.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) from Tsinghua University.
 I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), luckily supervised by [Prof. Shiming Ge](https://imsg.ac.cn/people/geshiming.html).
 
-Currently, my research focuses on multi-modal media forensics and AI safety, including exploring the mechanism of generative models and how to detect generated or manipulated content.
+Currently, my research focuses on multi-modal media forensics and AI safety, including investigating the mechanism of generative models and how to detect generated or manipulated content.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
 
