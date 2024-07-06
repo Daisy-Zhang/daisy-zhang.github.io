@@ -39,7 +39,7 @@ If you are also interested in similar topics or seeking any form of research col
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2021</div><img src='images/ijcai21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mm22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deepfake Video Detection with Spatiotemporal Dropout Transformer](https://dl.acm.org/doi/abs/10.1145/3503161.3547913)
