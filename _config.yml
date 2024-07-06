@@ -22,11 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Daichi Zhang"
-  name1            : "张岱墀"
+  employer         : "张岱墀"
   avatar           : "images/photo.jpg"
   bio              : "THU/CAS/EPFL"
   location         : "Lausanne, Switzerland"
-  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uu4nw4wAAAAJ"
   email            : "daichi.zhang@epfl.ch"
