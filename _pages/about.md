@@ -71,6 +71,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [Interpretable Face Manipulation Detection via Feature Whitening.](https://arxiv.org/abs/2106.10834) Yingying Hua, **Daichi Zhang**, Pengju Wang, Shiming Ge. International Conference on Machine Learning Workshop (*ICML Workshop*) 2021.
 - [Look Through Masks: Towards Masked Face Recognition with De-occlusion Distillation.](https://dl.acm.org/doi/abs/10.1145/3394171.3413960?casa_token=-RpotDqKpjEAAAAA:82CNFQArjJS3XHGfVN4plecder5xdOYECThEGX2Qdjf4CQn5XRJPAbn_YX2KcZ5HJTwD7Od3E6lOsR4) Chenyu Li, Shiming Ge, **Daichi Zhang**, Jia Li. ACM International Conference on Multimedia (ACM MM) 2020: 3016-3024.
 - [Research Progress in the Interpretability of Deep Learning Models.](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20200302&flag=1) Yingying Hua, **Daichi Zhang**, Shiming Ge. Journal of Cyber Security 5.3 (2020): 1-12.
+
 ---
 - Face Forgery Video Detection Method and Device. Chinese Patent. ZL202010994947.4.
 
