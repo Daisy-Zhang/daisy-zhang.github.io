@@ -82,9 +82,9 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 </div>
 </div>
 
-- [Deepfake Detection Challenge (DFDC) 2020](https://www.kaggle.com/c/deepfake-detection-challenge): world rank top 20 with Tsinghua University.
+- [Deepfake Detection Challenge (DFDC) 2020](https://www.kaggle.com/c/deepfake-detection-challenge): World rank top 20 with Tsinghua University.
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University and [RealAI](https://www.realai.ai/).
-- [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): second prize.
+- [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
 Besides, I also serve as a reviewer for journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, AAAI, ACM MM).
 
