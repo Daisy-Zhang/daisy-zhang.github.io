@@ -86,7 +86,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 </div>
 
 - [Deepfake Detection Challenge (DFDC) 2020](https://www.kaggle.com/c/deepfake-detection-challenge): World rank top 20 with Tsinghua University.
-- [ZGC Forum - Artificial Intelligence Security Competition 2022](https://compete.zgc-aisc.com/login): Assist in organizing with Tsinghua University and [RealAI](https://www.realai.ai/).
+- [ZGC Forum - Artificial Intelligence Security Competition 2022](https://compete.zgc-aisc.com/login): Assist organization with Tsinghua University and [RealAI](https://www.realai.ai/).
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University and RealAI.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
