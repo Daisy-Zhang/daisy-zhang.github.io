@@ -48,7 +48,7 @@ If you are also interested in similar topics or seeking any form of research col
 
 European Conference on Computer Vision (*ECCV*) 2024.
 
-- A Transformer-based detector by mining the local patch-level spatiotemporal inconsistency. 
+- Learning the natural consistency representation of real face videos with two designed self-supervised tasks to detect fake ones. 
 </div>
 </div>
 
