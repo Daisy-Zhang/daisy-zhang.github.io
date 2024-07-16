@@ -39,6 +39,19 @@ If you are also interested in similar topics or seeking any form of research col
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/mm22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Natural Consistency Representation for Face Forgery Video Detection](https://arxiv.org/abs/2407.10550)
+
+**Daichi Zhang**, Zihao Xiao, Shikun Li, Fanzhao Lin, Jianmin Li, Shiming Ge.
+
+European Conference on Computer Vision (*ECCV*) 2024.
+
+- A Transformer-based detector by mining the local patch-level spatiotemporal inconsistency. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mm22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,7 +78,6 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 </div>
 </div>
 
-- [Learning Natural Consistency Representation for Face Forgery Video Detection.](https://daisy-zhang.github.io/) **Daichi Zhang**, Zihao Xiao, Shikun Li, Fanzhao Lin, Jianmin Li, Shiming Ge. European Conference on Computer Vision (*ECCV*) 2024. (*coming soon*)
 - [Deepfake Video Detection via Predictive Representation Learning.](https://dl.acm.org/doi/full/10.1145/3536426) Shiming Ge, Fanzhao Lin, Chenyu Li, **Daichi Zhang**, Weiping Wang, Dan Zeng. ACM Transactions on Multimedia Computing, Communications, and Applications (*TOMM*) 2022, 18(2s): 1-21.
 - [Interpret the Predictions of Deep Networks via Re-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/9428072/?casa_token=3i1SkWCrJUUAAAAA:fqA8v736ixJJO7oOyr24XTffmCYJLszA4Y5vjac6dk2Q0axzdXVh_AlJfTk94TP8CLR14E1CiDi6) Yingying Hua, Shiming Ge, **Daichi Zhang**. IEEE International Conference on Multimedia and Expo (*ICME*) 2021: 1-6.
 - [Interpretable Face Manipulation Detection via Feature Whitening.](https://arxiv.org/abs/2106.10834) Yingying Hua, **Daichi Zhang**, Pengju Wang, Shiming Ge. International Conference on Machine Learning Workshop (*ICML Workshop*) 2021.
