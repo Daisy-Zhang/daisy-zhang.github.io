@@ -27,6 +27,7 @@ If you are also interested in similar topics or seeking any form of research col
 
 
 # 🔥 News
+- *2024.07*: :&nbsp;🙌 Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join!
 - *2024.06*: &nbsp;🎉 One paper Accepted by [ECCV 2024](https://eccv.ecva.net/)! Thanks for all my co-authors!
 - *2024.02*: &nbsp;🔈 Supervise two [BS/MS Semester Projects](https://www.epfl.ch/labs/ivrl/available-projects/) on Large Language Models/Diffusion Models Safety during spring semester at EPFL. Feel free to send me an email if you are interested in these topics and working with me.
 - *2024.01*: &nbsp;🙋 Invited talk on [the TechDay of International School of Geneve](https://www.ecolint.ch/en) on Deepfake. Happy to share ideas with young students!
