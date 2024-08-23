@@ -34,8 +34,8 @@ If you are also interested in similar topics or seeking any form of research col
 - *2023.09*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
 # 📖 Educations
-- *2023.9 - now*, Joint Ph.D. Candidate, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
-- *2020.09 - now*, Ph.D. Candidate, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China. 
+- *2023.9 - now*, Joint Ph.D. Student, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
+- *2020.09 - now*, Ph.D. Student, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China. 
 - *2016.09 - 2020.06*, Bachelor, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
 
 # 📝 Publications 
@@ -103,7 +103,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University and RealAI.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
-Besides, I also serve as a reviewer for top-tier journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, AAAI, ACM MM).
+Besides, I also serve as a reviewer for top-tier journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, ICLR, ACM MM).
 
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
