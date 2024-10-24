@@ -35,8 +35,9 @@ If you are also interested in similar topics or seeking any form of research col
 - *2023.09*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
 # 📖 Educations
-- *2023.9 - now*, Ph.D. Student, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
-- *2020.09 - now*, Ph.D. Student, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China. 
+- *2023.09 - now*, Ph.D. Student, Joint Ph.D program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
+- *2021.12 - 2023.09*, Ph.D. Student, Joint Ph.D program, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
+- *2020.09 - 2021.12*, Ph.D. Student, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China.
 - *2016.09 - 2020.06*, Bachelor, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
 
 # 📝 Publications 
@@ -112,6 +113,5 @@ Besides, I also serve as a reviewer for top-tier journals (including TIP, TCSVT)
 - *2019.06*, Merit Student, Tsinghua University.
 
 # 💻 Internships
-- *2021.10 - 2023.09*, Research Assitant, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China.
 - *2019.10 - 2020.06*, Algorithm Engineer, [Ant Group](https://www.antgroup.com/en), Beijing, China.
 - *2019.06 - 2019.09*, Algorithm Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
