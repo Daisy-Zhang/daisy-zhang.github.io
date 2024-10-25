@@ -55,6 +55,19 @@ European Conference on Computer Vision (*ECCV*) 2024.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2023</div><img src='images/arxiv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Latent Spatiotemporal Adaptation for Generalized Face Forgery Video Detection](https://arxiv.org/abs/2309.04795)
+
+**Daichi Zhang**, Zihao Xiao, Jianmin Li, Shiming Ge.
+
+arXiv preprint arXiv:2309.04795.
+
+- Improve the detector's generalization by adapting the spatiotemporal clues from labeled source domain to unlabeled target domain.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mm22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
