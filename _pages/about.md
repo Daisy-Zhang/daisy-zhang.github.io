@@ -25,6 +25,7 @@ I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sc
 Currently, my research focuses on Multimodal Media Forensics and AI Safety, including investigating the mechanism of generative models (such as Large Language Models and Diffusion Models) and how to detect generated or manipulated content.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
+I am actively looking for **full-time positions**. Do not hesitate to contact me if you are interested.
 
 # 🔥 News
 - *2024.10*: &nbsp;📄 Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
