@@ -119,7 +119,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
-Besides, I also serve as a reviewer for top-tier journals (including TIP, TCSVT) and conferences (including CVPR, ECCV, ICLR, ACM MM).
+Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TCSVT) and conferences (including CVPR, ECCV, ICLR, ACM MM).
 
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
