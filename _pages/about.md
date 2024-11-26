@@ -98,6 +98,8 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 ---
 - [A Method and Device for Face Forgery Video Detection](http://epub.cnipa.gov.cn/Index). Shiming Ge, **Daichi Zhang**, Chenyu Li, Yingying Hua, Weiping Wang. Chinese Patent 2020. No. ZL202010994947.4.
 
+Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ECCV, ICLR, ACM MM).
+
 # 📖 Educations
 - *2023.09 - now*, Ph.D. Student, Joint Ph.D. program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
 - *2021.12 - 2023.09*, Ph.D. Student, Joint Ph.D. program, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
@@ -118,8 +120,6 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [ZGC Forum - Artificial Intelligence Security Competition 2022](https://compete.zgc-aisc.com/login): Assist organization with Tsinghua University.
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
-
-Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TCSVT) and conferences (including CVPR, ECCV, ICLR, ACM MM).
 
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
