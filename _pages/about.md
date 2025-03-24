@@ -25,8 +25,6 @@ I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sc
 Currently, my research focuses on Multimodal Media Forensics and AI Safety, including investigating the mechanism of generative models (such as Large Language Models and Diffusion Models) and how to detect generated or manipulated content.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
-<font color="red"> I am actively looking for full-time positions and research internship opportunity. Do not hesitate to contact me if you are interested. </font>
-
 # 🔥 News
 - *2024.10*: &nbsp;📄 Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
 - *2024.07*: &nbsp;🙌 Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join our conference!
@@ -127,5 +125,5 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 - *2019.06*, Merit Student, Tsinghua University.
 
 # 💻 Internships
-- *2019.10 - 2020.06*, Algorithm Engineer, [Ant Group](https://www.antgroup.com/en), Beijing, China.
-- *2019.06 - 2019.09*, Algorithm Engineer, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
+- *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
+- *2019.06 - 2019.09*, Algorithm Intern, [Tecent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
