@@ -119,11 +119,11 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
+# 💻 Internships
+- *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
+- *2019.06 - 2019.09*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
+
 # 🎖 Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
 - *2019.10*, National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
 - *2019.06*, Merit Student, Tsinghua University.
-
-# 💻 Internships
-- *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
-- *2019.06 - 2019.09*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
