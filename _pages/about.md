@@ -26,12 +26,12 @@ Currently, my research focuses on Multimodal Media Forensics and AI Safety, incl
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
 # News
-- *2024.10*: &nbsp;📄 Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
-- *2024.07*: &nbsp;🙌 Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join our conference!
-- *2024.06*: &nbsp;🎉 One paper Accepted by [ECCV 2024](https://eccv.ecva.net/)! Thanks for all my co-authors!
-- *2024.02*: &nbsp;🔈 Supervise two [BS/MS Semester Projects](https://www.epfl.ch/labs/ivrl/available-projects/) on Large Language Models/Diffusion Models Safety during spring semester at EPFL. Feel free to send me an email if you are interested in these topics and working with me.
-- *2024.01*: &nbsp;🙋 Invited talk on [the TechDay of International School of Geneve](https://www.ecolint.ch/en) on Deepfake. Happy to share ideas with young students!
-- *2023.09*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
+- *2024.10*: Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
+- *2024.07*: Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join our conference!
+- *2024.06*: One paper Accepted by [ECCV 2024](https://eccv.ecva.net/)! Thanks for all my co-authors!
+- *2024.02*: Supervise two [BS/MS Semester Projects](https://www.epfl.ch/labs/ivrl/available-projects/) on Large Language Models/Diffusion Models Safety during spring semester at EPFL. Feel free to send me an email if you are interested in these topics and working with me.
+- *2024.01*: Invited talk on [the TechDay of International School of Geneve](https://www.ecolint.ch/en) on Deepfake. Happy to share ideas with young students!
+- *2023.09*: I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
 # Publications 
 
@@ -123,7 +123,7 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 - *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
 - *2019.06 - 2019.09*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
 
-# 🎖 Awards
+# Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
 - *2019.10*, National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
 - *2019.06*, Merit Student, Tsinghua University.
