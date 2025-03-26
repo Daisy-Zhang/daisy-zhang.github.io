@@ -25,7 +25,7 @@ I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sc
 Currently, my research focuses on Multimodal Media Forensics and AI Safety, including investigating the mechanism of generative models (such as Large Language Models and Diffusion Models) and how to detect generated or manipulated content.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
-# 🔥 News
+# News
 - *2024.10*: &nbsp;📄 Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
 - *2024.07*: &nbsp;🙌 Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join our conference!
 - *2024.06*: &nbsp;🎉 One paper Accepted by [ECCV 2024](https://eccv.ecva.net/)! Thanks for all my co-authors!
@@ -33,7 +33,7 @@ If you are also interested in similar topics or seeking any form of research col
 - *2024.01*: &nbsp;🙋 Invited talk on [the TechDay of International School of Geneve](https://www.ecolint.ch/en) on Deepfake. Happy to share ideas with young students!
 - *2023.09*: &nbsp;😃 I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,13 +98,13 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 
 Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ICCV, ECCV, ICLR, ACM MM).
 
-# 📖 Educations
+# Educations
 - *2023.09 - now*, Ph.D. Student, Joint Ph.D. program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
 - *2021.12 - 2023.09*, Ph.D. Student, Joint Ph.D. program, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
 - *2020.09 - 2021.12*, Ph.D. Student, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China.
 - *2016.09 - 2020.06*, Bachelor, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
 
-# 🔨 Projects
+# Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/dfd.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -119,7 +119,7 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with Tsinghua University.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
-# 💻 Internships
+# Internships
 - *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
 - *2019.06 - 2019.09*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
 
