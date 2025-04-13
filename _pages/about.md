@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth year joint Ph.D. student in the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland, luckily supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and working with [Dr. Tong Zhang](https://sites.google.com/view/tong-zhang).
+I am currently a fourth year joint Ph.D. student in the [Image and Visual Representation Lab (IVRL)](https://www.epfl.ch/labs/ivrl/), the School of Computer and Communication Sciences at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland, luckily supervised by [Prof. Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en) and collaborate closely with [Prof. Tong Zhang](https://sites.google.com/view/tong-zhang).
 
 Before that, I received my bachelor degree from the Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. My bachelor's thesis was supervised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). And I feel lucky to further collaborate with [Prof. Hang Su](https://www.suhangss.me/), [Prof. Jianmin Li](https://www.cs.tsinghua.edu.cn/csen/info/1154/3991.htm) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) from Tsinghua University.
 I am also enrolled in a Ph.D. program at the University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China, luckily supervised by [Prof. Shiming Ge](https://imsg.ac.cn/people/geshiming.html) and [Prof. Can Ma](https://people.ucas.ac.cn/~macan).
@@ -96,7 +96,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 ---
 - [A Method and Device for Face Forgery Video Detection](http://epub.cnipa.gov.cn/Index). Shiming Ge, **Daichi Zhang**, Chenyu Li, Yingying Hua, Weiping Wang. Chinese Patent 2020. No. ZL202010994947.4.
 
-Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ICCV, ECCV, ICLR, ACM MM).
+Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM).
 
 # Educations
 - *2023.09 - now*, Ph.D. Student, Joint Ph.D. program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
