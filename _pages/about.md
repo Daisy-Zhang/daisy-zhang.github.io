@@ -98,10 +98,9 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM).
 
 # Educations
-- *2023.09 - now*, Ph.D. Student, Joint Ph.D. program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
-- *2021.12 - 2023.09*, Ph.D. Student, Joint Ph.D. program, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
-- *2020.09 - 2021.12*, Ph.D. Student, University of Chinese Academy of Sciences, [Chinese Academy of Sciences](https://english.cas.cn/), Beijing, China.
-- *2016.09 - 2020.06*, Bachelor, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
+- *2020.9 - 2025.6*, Ph.D. Student, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Beijing, China.
+- *2023.10 - 2024.10*, Ph.D. Student, Joint Ph.D. program, School of Computer and Communication Sciences, [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/), Lausanne, Switzerland.
+- *2016.9 - 2020.6*, Bachelor, Department of Computer Science and Technology, [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, China. 
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/dfd.jpg' alt="sym" width="100%"></div></div>
