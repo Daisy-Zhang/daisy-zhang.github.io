@@ -96,7 +96,6 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 
 [Awesome Deepfake Detection [Github]](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
 
-- A collection list of Deepfakes Detection related datasets, tools, papers, and code to facilitate the development of related community. 
 </div>
 </div>
 
