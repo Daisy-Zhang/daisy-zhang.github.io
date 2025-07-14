@@ -24,14 +24,6 @@ Previously, I was a Research Intern in Huawei Noah's Ark Lab (2025.4-2025.7), lu
 Currently, my research focuses on Computer Vision, Multimodal Media Forensics, and AIGC/LLM/AI Safety, including the attack and defense of generative models (such as Large Language Models and Diffusion Models) and how to detect generated and manipulated content.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
-# News
-- *2024.10*: Present our work in [ECCV 2024](https://eccv.ecva.net/virtual/2024/calendar), Milano, Italy. Welcome to join us during the poster session!
-- *2024.07*: Volunteer in [ICCP 2024](https://iccp-conference.org/iccp2024/), Lausanne, Switzerland. Welcome to join our conference!
-- *2024.06*: One paper Accepted by [ECCV 2024](https://eccv.ecva.net/)! Thanks for all my co-authors!
-- *2024.02*: Supervise two [BS/MS Semester Projects](https://www.epfl.ch/labs/ivrl/available-projects/) on Large Language Models/Diffusion Models Safety during spring semester at EPFL. Feel free to send me an email if you are interested in these topics and working with me.
-- *2024.01*: Invited talk on [the TechDay of International School of Geneve](https://www.ecolint.ch/en) on Deepfake. Happy to share ideas with young students!
-- *2023.09*: I am lucky to join the [IVRL](https://www.epfl.ch/labs/ivrl/) group at EPFL for a joint Ph.D. program under the supervision of [Prof.Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk?lang=en).
-
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24.jpg' alt="sym" width="100%"></div></div>
