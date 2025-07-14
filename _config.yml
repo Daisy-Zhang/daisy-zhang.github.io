@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Daichi Zhang (张岱墀)"
-description              : "Ph.D. Student in CS, THU/CAS/EPFL. Focusing on Computer Vision, Multimodal Media Forensics, AIGC, and AI Safety."
+description              : "Ph.D. in CS, THU/UCAS/EPFL. Focusing on Computer Vision, Multimodal Media Forensics, AIGC/LLM Safety, and AI Safety."
 repository               : "Daisy-Zhang/Daisy-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Daichi Zhang"
   name_cn          : "张岱墀"
   avatar           : "images/photo1.jpg"
-  bio              : "THU/CAS/EPFL"
-  location         : "Lausanne, Switzerland"
+  bio              : "THU/UCAS/EPFL"
+  location         : "Beijing, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uu4nw4wAAAAJ"
   email            : "daisy.zdcc@gmail.com"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : daichi-zhang-7b12932a1 # e.g., "linkedin username"
+  linkedin         : #daichi-zhang-7b12932a1 # e.g., "linkedin username"
   dblp             : https://dblp.org/pid/276/3169.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
