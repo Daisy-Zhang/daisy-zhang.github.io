@@ -74,7 +74,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 </div>
 </div>
 
-- [Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning](https://dl.acm.org/doi/pdf/10.1145/3731715.3733310) Kexin Bao, **Daichi Zhang***, Yong Li, Dan Zeng, Shiming Ge. Proceedings of the 2025 International Conference on Multimedia Retrieval (*ICMR*) 2025, 5-14. (co-corresponding author)
+- [Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning](https://dl.acm.org/doi/pdf/10.1145/3731715.3733310) Kexin Bao, **Daichi Zhang\***, Yong Li, Dan Zeng, Shiming Ge. Proceedings of the 2025 International Conference on Multimedia Retrieval (*ICMR*) 2025, 5-14. (co-corresponding author)
 - [Deepfake Video Detection via Predictive Representation Learning.](https://dl.acm.org/doi/full/10.1145/3536426) Shiming Ge, Fanzhao Lin, Chenyu Li, **Daichi Zhang**, Weiping Wang, Dan Zeng. ACM Transactions on Multimedia Computing, Communications, and Applications (*TOMM*) 2022, 18(2s): 1-21.
 - [Interpret the Predictions of Deep Networks via Re-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/9428072/?casa_token=3i1SkWCrJUUAAAAA:fqA8v736ixJJO7oOyr24XTffmCYJLszA4Y5vjac6dk2Q0axzdXVh_AlJfTk94TP8CLR14E1CiDi6) Yingying Hua, Shiming Ge, **Daichi Zhang**. IEEE International Conference on Multimedia and Expo (*ICME*) 2021: 1-6.
 - [Interpretable Face Manipulation Detection via Feature Whitening.](https://arxiv.org/abs/2106.10834) Yingying Hua, **Daichi Zhang**, Pengju Wang, Shiming Ge. International Conference on Machine Learning Workshop (*ICML Workshop*) 2021.
