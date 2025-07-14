@@ -35,7 +35,6 @@ If you are also interested in similar topics or seeking any form of research col
 
 European Conference on Computer Vision (*ECCV*) 2024.
 
-- Learning the natural consistency representation of real face videos with two designed self-supervised tasks to detect fake ones. 
 </div>
 </div>
 
@@ -48,7 +47,6 @@ European Conference on Computer Vision (*ECCV*) 2024.
 
 arXiv preprint arXiv:2309.04795.
 
-- Improve the detector's generalization by adapting the spatiotemporal clues from labeled source domain to unlabeled target domain.
 </div>
 </div>
 
@@ -61,7 +59,6 @@ arXiv preprint arXiv:2309.04795.
 
 ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. $${\color{red}{(Oral)}}$$
 
-- A Transformer-based detector by mining the local patch-level spatiotemporal inconsistency. 
 </div>
 </div>
 
@@ -74,7 +71,6 @@ ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. $${\color
 
 International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-1294.
 
-- A 3DCNN-based detector by exploring the multi-scale spatiotemporal coherence with temporal augmentation. 
 </div>
 </div>
 
