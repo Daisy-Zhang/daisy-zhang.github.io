@@ -74,8 +74,8 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 </div>
 </div>
 
-- [CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning](https://daisy-zhang.github.io/) Kexin Bao, **Daichi Zhang†** , Hansong Zhang, Yong Li, Yutao Yue, Shiming Ge. International Joint Conferences on Artificial Intelligence (*IJCAI*) 2025. (Project Leader)
-- [Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning](https://dl.acm.org/doi/pdf/10.1145/3731715.3733310) Kexin Bao, **Daichi Zhang\***, Yong Li, Dan Zeng, Shiming Ge. Proceedings of the 2025 International Conference on Multimedia Retrieval (*ICMR*) 2025, 5-14. (Co-corresponding Author)
+- [CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning.](https://daisy-zhang.github.io/) Kexin Bao, **Daichi Zhang†** , Hansong Zhang, Yong Li, Yutao Yue, Shiming Ge. International Joint Conferences on Artificial Intelligence (*IJCAI*) 2025. (Project Leader)
+- [Divide and Conquer: Static-Dynamic Collaboration for Few-Shot Class-Incremental Learning.](https://dl.acm.org/doi/pdf/10.1145/3731715.3733310) Kexin Bao, **Daichi Zhang\***, Yong Li, Dan Zeng, Shiming Ge. Proceedings of the 2025 International Conference on Multimedia Retrieval (*ICMR*) 2025, 5-14. (Co-corresponding Author)
 - [Deepfake Video Detection via Predictive Representation Learning.](https://dl.acm.org/doi/full/10.1145/3536426) Shiming Ge, Fanzhao Lin, Chenyu Li, **Daichi Zhang**, Weiping Wang, Dan Zeng. ACM Transactions on Multimedia Computing, Communications, and Applications (*TOMM*) 2022, 18(2s): 1-21.
 - [Interpret the Predictions of Deep Networks via Re-Label Distillation.](https://ieeexplore.ieee.org/abstract/document/9428072/?casa_token=3i1SkWCrJUUAAAAA:fqA8v736ixJJO7oOyr24XTffmCYJLszA4Y5vjac6dk2Q0axzdXVh_AlJfTk94TP8CLR14E1CiDi6) Yingying Hua, Shiming Ge, **Daichi Zhang**. IEEE International Conference on Multimedia and Expo (*ICME*) 2021: 1-6.
 - [Interpretable Face Manipulation Detection via Feature Whitening.](https://arxiv.org/abs/2106.10834) Yingying Hua, **Daichi Zhang**, Pengju Wang, Shiming Ge. International Conference on Machine Learning Workshop (*ICML Workshop*) 2021.
@@ -83,7 +83,7 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [Research Progress in the Interpretability of Deep Learning Models.](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20200302&flag=1) Yingying Hua, **Daichi Zhang**, Shiming Ge. Journal of Cyber Security 5.3 (2020): 1-12.
 
 ---
-- [A Method and Device for Face Forgery Video Detection](http://epub.cnipa.gov.cn/Index). Shiming Ge, **Daichi Zhang**, Chenyu Li, Yingying Hua, Weiping Wang. Chinese Patent 2020. No. ZL202010994947.4.
+- [A Method and Device for Face Forgery Video Detection.](http://epub.cnipa.gov.cn/Index) Shiming Ge, **Daichi Zhang**, Chenyu Li, Yingying Hua, Weiping Wang. Chinese Patent 2020. No. ZL202010994947.4.
 
 Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and conferences (including CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM).
 
