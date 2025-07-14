@@ -119,12 +119,13 @@ Besides, I also serve as a reviewer for top-tier journals (including TIFS, TIP, 
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
 # Internships
-- *2019.10 - 2020.06*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
-- *2019.06 - 2019.09*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
+- *2019.10 - 2020.6*, Algorithm Intern, [Ant Group](https://www.antgroup.com/en), Beijing, China.
+- *2019.6 - 2019.9*, Algorithm Intern, [Tencent](https://www.tencent.com/en-us/about.html), Shenzhen, China.
+- *2022.10 - 2023.7*, Research Intern, [RealAI](https://www.real-ai.cn/), Beijing, China.
+- *2025.4 - 2025.7*, Research Intern, [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/index.html), Beijing, China.
 
 # Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
-- *2019.10*, National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
 - *2019.06*, Merit Student, Tsinghua University.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=yaieltGruULNtzhLa2mlMTTvtIxwmJACI8l_7uGr2QY'></script>
