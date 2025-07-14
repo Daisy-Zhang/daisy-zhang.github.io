@@ -113,6 +113,7 @@ I serve as a reviewer for top-tier journals (including TIFS, TIP, TMM) and confe
 
 # Awards
 - *2021.06*, Merit Student, University of Chinese Academy of Sciences.
+- *2019.10*, National Encouragement Scholarship, Philobiblion Scholarship, Tsinghua University.
 - *2019.06*, Merit Student, Tsinghua University.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=yaieltGruULNtzhLa2mlMTTvtIxwmJACI8l_7uGr2QY'></script>
