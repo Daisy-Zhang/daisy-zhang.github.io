@@ -57,7 +57,7 @@ arXiv preprint arXiv:2309.04795.
 
 **Daichi Zhang**, Fanzhao Lin, Yingying Hua, Pengju Wang, Dan Zeng, Shiming Ge.
 
-ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. $${\color{red}{(Oral)}}$$
+ACM International Conference on Multimedia (*ACM MM*) 2022: 5833-5841. (*Oral*)
 
 </div>
 </div>
