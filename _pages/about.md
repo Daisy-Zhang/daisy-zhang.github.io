@@ -103,6 +103,7 @@ Besides, I serve as a reviewer for top-tier journals (including TIFS, TIP, TMM, 
 
 - [Deepfake Detection Challenge (DFDC) 2020](https://www.kaggle.com/c/deepfake-detection-challenge): World rank top 20 with Tsinghua University.
 - [The 3rd China Artificial Intelligence Competition on Deepfake Video Detection 2021](https://ai.xm.gov.cn/): B-level prize with RealAI and Tsinghua University.
+- [ZGC Forum - Artificial Intelligence Security Competition 2022](https://compete.zgc-aisc.com/login): Assist organization with RealAI and Tsinghua University.
 - [Huawei Student Developer Competition 2020](https://developer.huawei.com/consumer/cn/programs/hsd): Second prize.
 
 # Internships
