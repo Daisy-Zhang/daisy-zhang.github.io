@@ -24,7 +24,7 @@ Previously, I was a Research Intern in Huawei Noah's Ark Lab (2025.4-2025.7), su
 Currently, my research interest focuses on AI Safety and Trustworthy AI, including multimodal media forensics, AIGC/LLM/Embodied AI safety.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
-PS: The second word in my name, Dai(岱), represents the Mount Tai in China ("岱宗夫如何？齐鲁青未了。"――《望岳》). The last word, Chi(墀), implies the stairs in palace ("以丹漆地,故称丹墀。"――《汉典职仪》).
+PS: The second word in my name, Dai(岱), represents the Mount Tai in China ("岱宗夫如何？齐鲁青未了。"――《望岳》). The last word, Chi(墀), implies the stairs in palace ("以丹漆地，故称丹墀。"――《汉典职仪》).
 
 # Publications 
 
