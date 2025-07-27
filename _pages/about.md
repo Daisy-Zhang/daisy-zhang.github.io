@@ -24,6 +24,8 @@ Previously, I was a Research Intern in Huawei Noah's Ark Lab (2025.4-2025.7), su
 Currently, my research interest focuses on AI Safety and Trustworthy AI, including multimodal media forensics, AIGC/LLM/Embodied AI safety.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
+PS: The second word in my name, Dai(岱), represents the Mount Tai in China. The last word, Chi(墀), implies the stairs in palace.
+
 # Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24.jpg' alt="sym" width="100%"></div></div>
