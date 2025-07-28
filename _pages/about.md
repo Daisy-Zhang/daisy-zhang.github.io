@@ -21,7 +21,7 @@ I am currently an Assistant Researcher in Zhongguancun Laboratory. I received my
 
 Previously, I was a Research Intern in Huawei Noah's Ark Lab (2025.4-2025.7), supervised by [Dr. Feng Tang](https://scholar.google.com/citations?hl=en&user=GC2xivIAAAAJ) and [Dr. Zhongang Qi](https://zhongangqi.github.io/). And I was a Research Intern in RealAI (2022.10-2023.7), supervised by [Zihao Xiao](https://scholar.google.com/citations?user=fOfxmrcAAAAJ&hl=en&oi=ao) and [Prof. Jianmin Li](https://www.cs.tsinghua.edu.cn/csen/info/1154/3991.htm). I also feel lucky to have the chance to collaborate with [Dr. Jianmin Bao](https://jianminbao.github.io/) from Microsoft Research Asia during my Ph.D. More previously, I was an Algorithm Intern in Tencent TEG (2019.6-2019.9) and Ant Group (2019.10-2020.6).
 
-Currently, my research focuses on AI Safety and Trustworthy AI, including multimodal media forensics, AIGC/LLM/Embodied AI safety.
+Currently, my research focuses on AI Safety and Trustworthy AI, including multimodal media forensics, AIGC/MLLM/Embodied AI safety.
 If you are also interested in similar topics or seeking any form of research collaboration, please feel free to reach out to me by email. I always enjoy working with excellent researchers!
 
 PS: The second word in my name, Dai(岱), represents the Mount Tai in China ("岱宗夫如何？齐鲁青未了。"――《望岳》). The last word, Chi(墀), implies the stairs in palace ("以丹漆地，故称丹墀。"――《汉典职仪》).
