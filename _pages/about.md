@@ -40,7 +40,7 @@ arXiv preprint arXiv:2511.00429.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv_clip.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Leveraging Hierarchical Image-Text Misalignment for Universal Fake Image Detection](https://arxiv.org/abs/2511.00427)
