@@ -28,6 +28,30 @@ PS: The second word in my name, Dai(岱), represents the Mount Tai in China ("�
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv_freq.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Frequency Forgery Clues for Diffusion-Generated Image Detection](https://arxiv.org/abs/2511.00429)
+
+**Daichi Zhang**, Tong Zhang, Shiming Ge, Sabine Süsstrunk.
+
+arXiv preprint arXiv:2511.00429.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/arxiv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Leveraging Hierarchical Image-Text Misalignment for Universal Fake Image Detection](https://arxiv.org/abs/2511.00427)
+
+**Daichi Zhang**, Tong Zhang, Jianmin Bao, Shiming Ge, Sabine Süsstrunk.
+
+arXiv preprint arXiv:2511.00427.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
