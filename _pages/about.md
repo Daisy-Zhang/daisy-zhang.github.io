@@ -108,9 +108,6 @@ International Joint Conferences on Artificial Intelligence (*IJCAI*) 2021: 1288-
 - [Look Through Masks: Towards Masked Face Recognition with De-occlusion Distillation.](https://dl.acm.org/doi/abs/10.1145/3394171.3413960?casa_token=-RpotDqKpjEAAAAA:82CNFQArjJS3XHGfVN4plecder5xdOYECThEGX2Qdjf4CQn5XRJPAbn_YX2KcZ5HJTwD7Od3E6lOsR4) Chenyu Li, Shiming Ge, **Daichi Zhang**, Jia Li. ACM International Conference on Multimedia (ACM MM) 2020: 3016-3024.
 - [Research Progress in the Interpretability of Deep Learning Models.](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?file_no=20200302&flag=1) Yingying Hua, **Daichi Zhang**, Shiming Ge. Journal of Cyber Security 5.3 (2020): 1-12.
 
----
-- [A Method and Device for Face Forgery Video Detection.](http://epub.cnipa.gov.cn/Index) Shiming Ge, **Daichi Zhang**, Chenyu Li, Yingying Hua, Weiping Wang. Chinese Patent 2020. No. ZL202010994947.4.
-
 Besides, I serve as a reviewer for top-tier journals (including TIFS, TIP, TMM, et al.) and conferences (including CVPR, ICCV, ECCV, NeurIPS, ICLR, ACM MM, et al.).
 
 # Educations
